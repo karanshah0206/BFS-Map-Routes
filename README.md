@@ -4,7 +4,7 @@ A simple implementation of Breadth-First Search to find routes on a map, written
 Running the executable form command line: BFS \<filename\> \<base\> \<destination\>
   
 The data file should contain one-way routes in the following fomat:
-<base> <destination> <distance> <displacement>
+\<base\> \<destination\> \<distance\> \<displacement\>
 
 Each line represents a new route
 
